@@ -1,4 +1,4 @@
-![View](https://profile-counter.glitch.me/%7Beendroroy%7D/count.svg)
+<!-- ![View](https://profile-counter.glitch.me/%7Beendroroy%7D/count.svg) -->
 
 <table border="0">
 <tr border="0" width="100%">
