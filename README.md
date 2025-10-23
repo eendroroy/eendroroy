@@ -22,4 +22,4 @@
 </tr>
 <table>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=eendroroy&theme=tokyonight&column=-1)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=eendroroy&theme=tokyonight&column=-1) -->
