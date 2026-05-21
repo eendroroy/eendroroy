@@ -1,6 +1,6 @@
 <!-- ![View](https://profile-counter.glitch.me/%7Beendroroy%7D/count.svg) -->
 
-<table border="0">
+<!-- <table border="0">
 <tr border="0" width="100%">
   <td width="55%" border="0">
   
@@ -20,6 +20,8 @@
   
   </td>
 </tr>
-<table>
+<table> -->
 
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=eendroroy&theme=tokyonight&column=-1) -->
+
+# EENDROROY
